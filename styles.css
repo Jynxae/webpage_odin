@@ -27,3 +27,10 @@ li
     border: solid black;
     float: right;
 }
+
+#About
+{
+    position: absolute;
+    right: 43pc;
+    top: 10pt;
+}
